@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/masaok/serverless-nodejs-app-demo#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "serverless-http": "^2.0.2"
   }
 }
